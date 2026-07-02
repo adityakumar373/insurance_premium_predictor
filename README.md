@@ -43,7 +43,6 @@ insurance-premium-predictor/
 ├── frontend.py            # Streamlit frontend
 ├── model.py               # Model training script
 ├── model.pkl              # Trained ML pipeline
-├── requirements.txt
 ├── README.md
 │
 └── data/
