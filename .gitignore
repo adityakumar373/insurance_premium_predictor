@@ -1,0 +1,5 @@
+.venv
+__pycache__
+\config\__pycache__
+\model\__pycache__
+\schema\__pycache__

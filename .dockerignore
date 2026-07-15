@@ -1,0 +1,21 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+.vscode
+.idea
+
+# Python cache
+**/__pycache__/
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db 

@@ -1,0 +1,2 @@
+tier_1_cities = ["Bangalore", "Chennai", "Delhi", "Hyderabad", "Kolkata", "Mumbai", "Pune", "Ahmedabad"]
+tier_2_cities = ["Agra", "Allahabad", "Amritsar", "Bhopal", "Faridabad", "Ghaziabad", "Indore", "Jaipur","Kanpur", "Lucknow", "Ludhiana", "Meerut", "Nagpur", "Nashik", "Patna", "Rajkot","Ranchi", "Srinagar", "Surat", "Vadodara", "Varanasi", "Visakhapatnam"]
